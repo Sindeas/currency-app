@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.9275761c.js",
+    "static/media/ellipse-desktop-right.png": "/static/media/ellipse-desktop-right.ba1ec9edd72c7836a8dc.png",
+    "index.html": "/index.html",
+    "main.9275761c.js.map": "/static/js/main.9275761c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9275761c.js"
+  ]
+}
